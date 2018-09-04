@@ -169,7 +169,7 @@
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="services-cont">
-          <div class="icon-cont"><img src="flaticon/worker-of-construction-working-with-a-shovel-beside-material-pile.svg" alt="learning-opportunities"></div>
+          <div class="icon-cont"><img src="flaticon/man-in-office-desk-with-computer.svg" alt="work-life-ballance"></div>
           <div class="text-cont">
             <h5>WORK-LIFE BALANCE</h5>
             <p>We comprehend the importance of work-life change. Our means of life endeavors to stay up a sound harmony between you and your career.</p>
@@ -178,7 +178,7 @@
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="services-cont">
-          <div class="icon-cont"><img src="flaticon/domain-registration.svg" alt="learning-opportunities"></div>
+          <div class="icon-cont"><img src="flaticon/domain-registration.svg" alt="domain experience"></div>
           <div class="text-cont">
             <h5>WIDE DOMAIN EXPERIENCE</h5>
             <p>XYZ has the power in 160+ areas, from IT, Online Marketing, Graphic Design, and Application Development to Data Entry and Financial Processes. There are plentiful profession decisions based on your capacities and knowledge.</p>
@@ -187,7 +187,7 @@
       </div>
       <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="services-cont">
-          <div class="icon-cont"><img src="flaticon/planning.svg" alt="learning-opportunities"></div>
+          <div class="icon-cont"><img src="flaticon/planning.svg" alt="flexible-engagements"></div>
           <div class="text-cont">
             <h5>FLEXIBLE ENGAGEMENTS</h5>
             <p>We have adaptable commitment models according to your necessity. You can pick them according to your task and your financial plan. The offering of our organization can meet your custom necessities.</p>
@@ -300,26 +300,26 @@
           <div class="row">
           <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
                   <div class="counter-cont">
-                      <h4><span class="numscroller" data-delay="5" data-increment="10">1200</span>+</h4>
+                      <h4><span class="numscroller" data-delay="5" data-increment="10">300</span></h4>
                         <h6>Happy Clients</h6>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
                   <div class="counter-cont">
-                      <h4><span class="numscroller" data-delay="5" data-increment="10">1300</span>+</h4>
+                      <h4><span class="numscroller" data-delay="5" data-increment="10">200</span></h4>
                         <h6>Projects</h6>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
                   <div class="counter-cont">
-                      <h4><span class="numscroller" data-delay="5" data-increment="10">500</span>+</h4>
+                      <h4><span class="numscroller" data-delay="5" data-increment="10">80</span></h4>
                         <h6>Employees</h6>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-6 col-sm-12 col-xs-12">
                   <div class="counter-cont">
-                      <h4><span class="numscroller" data-delay="5" data-increment="10">50</span>+</h4>
+                      <h4><span class="numscroller" data-delay="5" data-increment="10">20</span></h4>
                         <h6>Awards</h6>
                     </div>
                 </div>
